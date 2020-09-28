@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/News-app-Reactjs/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/News-app-Reactjs/static/js/main.9735c698.chunk.js",
+    "main.js.map": "/News-app-Reactjs/static/js/main.9735c698.chunk.js.map",
+    "runtime-main.js": "/News-app-Reactjs/static/js/runtime-main.dc223e27.js",
+    "runtime-main.js.map": "/News-app-Reactjs/static/js/runtime-main.dc223e27.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/News-app-Reactjs/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.941a2d10.chunk.js": "/News-app-Reactjs/static/js/2.941a2d10.chunk.js",
+    "static/js/2.941a2d10.chunk.js.map": "/News-app-Reactjs/static/js/2.941a2d10.chunk.js.map",
+    "index.html": "/News-app-Reactjs/index.html",
+    "precache-manifest.703220634598b8a68131f080a0b1bc9a.js": "/News-app-Reactjs/precache-manifest.703220634598b8a68131f080a0b1bc9a.js",
+    "service-worker.js": "/News-app-Reactjs/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/News-app-Reactjs/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/News-app-Reactjs/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.941a2d10.chunk.js.LICENSE.txt": "/News-app-Reactjs/static/js/2.941a2d10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc223e27.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.941a2d10.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9735c698.chunk.js"
+  ]
+}
